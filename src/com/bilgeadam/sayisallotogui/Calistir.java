@@ -8,6 +8,6 @@ public class Calistir {
 
         SayisalLoto loto = new SayisalLoto();
         loto.setVisible(true);
-        
+
     }
 }
